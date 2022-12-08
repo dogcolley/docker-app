@@ -198,3 +198,9 @@ services:
     ports:
       - "8080:8080"
 ```
+
+
+```
+  docker-compose up
+```
+>실행을 하면 컴포져가 실행된다.
